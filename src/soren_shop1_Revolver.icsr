@@ -1,0 +1,67 @@
+{
+    "name": "soren_shop1_Revolver",
+    "minCapacity": -1,
+    "maxCapacity": -1,
+    "ammoLimitedCount": 0,
+    "ammoSpawnLockedCount": 0,
+    "lootTagsEnabled": false,
+    "objectGroups": [
+        {
+            "name": "Derringer",
+            "objectID": [
+                "Model6",
+                "Speedloader3576Shot",
+                "357magJHP25round.MELON"
+            ]
+        },
+        {
+            "name": "Colt Navy",
+            "objectID": [
+            	"COP357",
+                "Speedloader3576Shot",
+                "357magJHP25round.MELON"
+            ]
+        },
+        {
+            "name": "Colt Army",
+            "objectID": [
+                "Hawk357",
+                "Speedloader3576Shot",
+                "357magJHP25round.MELON"
+            ]
+        },
+        {
+            "name": "GenericRevolver",
+            "objectID": [
+                "MP412REX",
+                "Speedloader3576Shot",
+                "357magJHP25round.MELON"
+            ]
+        },
+        {
+            "name": "Rhino40DS",
+            "objectID": [
+                "Rhino 60",
+                "Speedloader3576Shot",
+                "357magJHP25round.MELON"
+            ]
+        }
+    ],
+    "type": 0,
+    "set": [],
+    "eras": [],
+    "sizes": [],
+    "actions": [],
+    "modes": [],
+    "excludeModes": [],
+    "feedoptions": [],
+    "mounts": [],
+    "roundPowers": [],
+    "features": [],
+    "meleeStyles": [],
+    "meleeHandedness": [],
+    "powerupTypes": [],
+    "thrownTypes": [],
+    "countryOfOrigins": [],
+    "subtractionID": []
+}

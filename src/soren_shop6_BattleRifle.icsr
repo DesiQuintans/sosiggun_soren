@@ -1,0 +1,67 @@
+{
+    "name": "soren_shop6_BattleRifle",
+    "minCapacity": -1,
+    "maxCapacity": -1,
+    "ammoLimitedCount": 0,
+    "ammoSpawnLockedCount": 0,
+    "lootTagsEnabled": false,
+    "objectGroups": [
+        {
+            "name": "Dragunov SVD",
+            "objectID": [
+                "Dragonuv",
+                "MagazineDragonuv",
+                "762x54mmrfmj20round.MELON"
+            ]
+        },
+        {
+            "name": "PSG1",
+            "objectID": [
+                "PSG1",
+                "MagazinePSG110rnd",
+                "762x51fmj20round.MELON"
+            ]
+        },
+        {
+            "name": "M1 Garand",
+            "objectID": [
+                "M1Shorty16",
+                "MagazineM1Shorty1610rnd",
+                "762x51fmj20round.MELON"
+            ]
+        },
+        {
+            "name": "AKM",
+            "objectID": [
+                "AKM",
+                "MagazineAKM",
+                "762x39fmj50round.MELON"
+            ]
+        },
+        {
+            "name": "XM7",
+            "objectID": [
+                "SKSModern",
+                "MagazineSKSModern10rnd",
+                "762x39fmj50round.MELON"
+            ]
+        }
+    ],
+    "type": 0,
+    "set": [],
+    "eras": [],
+    "sizes": [],
+    "actions": [],
+    "modes": [],
+    "excludeModes": [],
+    "feedoptions": [],
+    "mounts": [],
+    "roundPowers": [],
+    "features": [],
+    "meleeStyles": [],
+    "meleeHandedness": [],
+    "powerupTypes": [],
+    "thrownTypes": [],
+    "countryOfOrigins": [],
+    "subtractionID": []
+}

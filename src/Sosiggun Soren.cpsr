@@ -1,0 +1,253 @@
+{
+    "name": "Soren",
+    "description": "Ammo is scarce; conserve it by taking and using your foes' sosigguns. If you're lucky, they'll drop the real thing for you to bring home. Difficulty is highly dependent on enemy faction.",
+    "category": "Safehouse",
+    "factionName": "Slow Burners",
+    "pointsLevel": [
+        0,
+        2,
+        2,
+        2,
+        4
+    ],
+    "newMagazineCost": 2,
+    "upgradeMagazineCost": 3,
+    "duplicateMagazineCost": -1,
+    "modCost": 1,
+    "recyclerPoints": 1,
+    "modeRearming": 4,
+    "rearmingCost": 1,
+    "modeSpeedLoaders": 4,
+    "speedLoadersCost": 1,
+    "modeClips": 4,
+    "clipsCost": 1,
+    "modeRounds": 4,
+    "roundsCost": 1,
+    "disableAmmoTable": true,
+    "disableModtable": false,
+    "disableBuyMenu": false,
+    "disableDuplicator": false,
+    "disableRecycler": false,
+    "deathMode": 0,
+    "deathCount": 0.0,
+    "ammoUpgradeCost": [
+		0,
+		1,
+		2,
+		3,
+		2,
+		1,
+		0,
+		3,
+		1,
+		3,
+		4,
+		5,
+		0,
+		1,
+		1,
+		2,
+		5,
+		0,
+		0,
+		0,
+		-1,
+		-1,
+		-1,
+		5,
+		-1,
+		-1,
+		1,
+		1
+    ],
+    "attachmentsCost": [
+		-1,
+		1,
+		2,
+		2,
+		2,
+		1,
+		3,
+		0,
+		1,
+		-1,
+		2,
+		1,
+		1,
+		1,
+		3,
+		1
+    ],
+    "startGearCategories": [
+        "soren_starter_handgun",
+        "soren_starter_longgun",
+        "soren_starter_painkillers",
+        "soren_type4Melee_melee",
+        "soren_type2Grenade_grenade_support",
+        "Wallet"
+    ],
+    "purchaseCategories": [
+        {
+            "itemCategory": "soren_shop1_Revolver",
+            "cost": 2
+        },
+        {
+            "itemCategory": "soren_shop3_ManualAction",
+            "cost": 3
+        },
+        {
+            "itemCategory": "soren_shop2_Autopistol",
+            "cost": 6
+        },
+        {
+            "itemCategory": "soren_shop4_Shotgun",
+            "cost": 8
+        },
+        {
+            "itemCategory": "soren_shop5_SMG",
+            "cost": 10
+        },
+        {
+            "itemCategory": "soren_shop6_BattleRifle",
+            "cost": 12
+        },
+        {
+            "itemCategory": "soren_shop7_CombatRifle",
+            "cost": 14
+        },
+        {
+            "itemCategory": "soren_shop8_MG",
+            "cost": 16
+        },
+        {
+            "itemCategory": "soren_shop9_Ordnance",
+            "cost": 20
+        },
+
+
+
+		{
+            "itemCategory": "Wallet",
+            "cost": 0
+        },
+        {
+            "itemCategory": "69 Cal 1",
+            "cost": 1
+        },
+        {
+            "itemCategory": "69 Cal 5",
+            "cost": 5
+        },
+        {
+            "itemCategory": "69 Cal 10",
+            "cost": 10
+        },
+        {
+            "itemCategory": "69 Cal 25",
+            "cost": 25
+        },
+        {
+            "itemCategory": "69 Cal 100",
+            "cost": 100
+        },
+        {
+            "itemCategory": "69 Cal 1000",
+            "cost": 1000
+        },
+        {
+            "itemCategory": "soren_type1Buff_firstaid_low",
+            "cost": 1
+        },
+        {
+            "itemCategory": "soren_type1Buff_firstaid_mid",
+            "cost": 2
+        },
+        {
+            "itemCategory": "soren_type1Buff_firstaid_total",
+            "cost": 3
+        },
+
+
+
+        {
+            "itemCategory": "soren_type2Grenade_grenade_support",
+            "cost": 0
+        },
+        {
+            "itemCategory": "soren_type2Grenade_grenade_frag",
+            "cost": 1
+        },
+
+
+
+        {
+            "itemCategory": "Backpack",
+            "cost": 2
+        },
+        {
+            "itemCategory": "soren_type3Tool_smallcase",
+            "cost": 4
+        },
+        {
+            "itemCategory": "soren_type3Tool_largecase",
+            "cost": 8
+        },
+        {
+            "itemCategory": "Range Finder",
+            "cost": 0
+        },
+        {
+            "itemCategory": "Grapple Hook",
+            "cost": 0
+        },
+        {
+            "itemCategory": "soren_type3Tool_Flashlight",
+            "cost": 0
+        },
+
+
+
+        {
+            "itemCategory": "soren_type4Melee_melee",
+            "cost": 1
+        },
+        {
+            "itemCategory": "soren_type4Melee_shield",
+            "cost": 4
+        }
+    ],
+    "lootCategories": [
+        {
+            "itemCategory": "soren_type2Grenade_grenade_frag",
+            "chance": 0.03000
+        },
+        {
+            "itemCategory": "soren_loot_medical",
+            "chance": 0.06000
+        },
+		{
+            "itemCategory": "soren_loot_gun",
+            "chance": 0.12000
+        },
+        {
+            "itemCategory": "soren_loot_super_rare",
+            "chance": 0.00012
+        }
+    ],
+    "subtractionObjectIDs": [
+        "12GaugeShellDragonsBreath",
+        "12GaugeShellFreedomfetti",
+        "12GaugeShellRedFlare",
+        "Cartridge12GaugeShortFreedomfetti",
+        "Cartridge_16Gauge_DragonsBreath",
+        "Cartridge_16Gauge_Freedomfetti",
+        "Cartridge_16Gauge_RedFlare",
+        "Cartridge20GaugeDragonsBreath",
+        "Cartridge20GaugeFreedomfetti",
+        "Cartridge20GaugeRedFlare",
+        "ReflexYolographic",
+        "Telescopescope",
+        "BayonetGrillFork",
+        "BayonetSpatula"
+    ]
+}

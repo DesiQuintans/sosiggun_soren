@@ -1,0 +1,63 @@
+{
+    "name": "soren_type4Melee_melee",
+    "minCapacity": -1,
+    "maxCapacity": -1,
+    "ammoLimitedCount": 0,
+    "ammoSpawnLockedCount": 0,
+    "lootTagsEnabled": false,
+    "objectGroups": [
+        {
+            "name": "Katana",
+            "objectID": [
+                "Katana"
+            ]
+        },
+        {
+            "name": "Crowbar",
+            "objectID": [
+                "Crowbar"
+            ]
+        },
+        {
+            "name": "Tomahawk",
+            "objectID": [
+                "Tactical_Tomahawk"
+            ]
+        },
+        {
+            "name": "Gladius",
+            "objectID": [
+                "Roman_Gladius"
+            ]
+        },
+        {
+        	"name": "Pilum",
+            "objectID": [
+                "Roman_Pilum1"
+            ]
+        },
+        {
+            "name": "Tanto",
+            "objectID": [
+                "Tanto"
+            ]
+        }
+    ],
+    "type": 4,
+    "set": [],
+    "eras": [],
+    "sizes": [],
+    "actions": [],
+    "modes": [],
+    "excludeModes": [],
+    "feedoptions": [],
+    "mounts": [],
+    "roundPowers": [],
+    "features": [],
+    "meleeStyles": [],
+    "meleeHandedness": [],
+    "powerupTypes": [],
+    "thrownTypes": [],
+    "countryOfOrigins": [],
+    "subtractionID": []
+}

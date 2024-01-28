@@ -1,0 +1,52 @@
+{
+    "name": "soren_starter_longgun",
+    "minCapacity": -1,
+    "maxCapacity": -1,
+    "ammoLimitedCount": 0,
+    "ammoSpawnLockedCount": 0,
+    "lootTagsEnabled": false,
+    "objectGroups": [
+        {
+            "name": "Long 8x2",
+            "objectID": [
+                "Sosiggun_Garand",
+                "Sosiggun_Garand"
+            ]
+        },
+        {
+            "name": "Long 20a",
+            "objectID": [
+                "Sosiggun_BAR"
+            ]
+        },
+        {
+            "name": "Long 20b",
+            "objectID": [
+                "Sosiggun_M1Carbine"
+            ]
+        },
+        {
+            "name": "Long 32",
+            "objectID": [
+                "Sosiggun_Tommy"
+            ]
+        }
+    ],
+    "type": 0,
+    "set": [],
+    "eras": [],
+    "sizes": [],
+    "actions": [],
+    "modes": [],
+    "excludeModes": [],
+    "feedoptions": [],
+    "mounts": [],
+    "roundPowers": [],
+    "features": [],
+    "meleeStyles": [],
+    "meleeHandedness": [],
+    "powerupTypes": [],
+    "thrownTypes": [],
+    "countryOfOrigins": [],
+    "subtractionID": []
+}

@@ -1,0 +1,48 @@
+{
+    "name": "soren_starter_handgun",
+    "minCapacity": -1,
+    "maxCapacity": -1,
+    "ammoLimitedCount": 0,
+    "ammoSpawnLockedCount": 0,
+    "lootTagsEnabled": false,
+    "objectGroups": [
+        {
+            "name": "Handgun 13",
+            "objectID": [
+                "Sosiggun_M9",
+                "Sosiggun_M9"
+            ]
+        },
+        {
+            "name": "Handgun 15",
+            "objectID": [
+                "Sosiggun_Glock",
+                "Sosiggun_Glock"
+            ]
+        },
+        {
+            "name": "Handgun 20",
+            "objectID": [
+                "SosiggunUSPMatch",
+                "SosiggunUSPMatch"
+            ]
+        }
+    ],
+    "type": 0,
+    "set": [],
+    "eras": [],
+    "sizes": [],
+    "actions": [],
+    "modes": [],
+    "excludeModes": [],
+    "feedoptions": [],
+    "mounts": [],
+    "roundPowers": [],
+    "features": [],
+    "meleeStyles": [],
+    "meleeHandedness": [],
+    "powerupTypes": [],
+    "thrownTypes": [],
+    "countryOfOrigins": [],
+    "subtractionID": []
+}

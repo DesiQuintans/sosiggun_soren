@@ -1,0 +1,49 @@
+{
+    "name": "soren_shop8_MG",
+    "minCapacity": -1,
+    "maxCapacity": -1,
+    "ammoLimitedCount": 0,
+    "ammoSpawnLockedCount": 0,
+    "lootTagsEnabled": false,
+    "objectGroups": [
+        {
+            "name": "BAR",
+            "objectID": [
+                "M1918BAR",
+                "MagazineM1918BAR",
+                "3006fmj20round.MELON"
+            ]
+        },
+        {
+            "name": "M60",
+            "objectID": [
+                "M60E4",
+                "MagazineM60Box"
+            ]
+        },
+        {
+            "name": "PKM",
+            "objectID": [
+                "RPD",
+                "MagazineRPD"
+            ]
+        }
+    ],
+    "type": 0,
+    "set": [],
+    "eras": [],
+    "sizes": [],
+    "actions": [],
+    "modes": [],
+    "excludeModes": [],
+    "feedoptions": [],
+    "mounts": [],
+    "roundPowers": [],
+    "features": [],
+    "meleeStyles": [],
+    "meleeHandedness": [],
+    "powerupTypes": [],
+    "thrownTypes": [],
+    "countryOfOrigins": [],
+    "subtractionID": []
+}

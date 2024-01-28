@@ -1,0 +1,52 @@
+{
+    "name": "soren_shop3_ManualAction",
+    "minCapacity": -1,
+    "maxCapacity": -1,
+    "ammoLimitedCount": 0,
+    "ammoSpawnLockedCount": 0,
+    "lootTagsEnabled": false,
+    "objectGroups": [
+    	{
+            "name": "Sharps 1874 Sniper",
+            "objectID": [
+                "Mosin91_30",
+                "ScopeMosinPU",
+                "BayonetMosin",
+                "762x54mmrfmj20round.MELON"
+            ]
+        },
+        {
+            "name": "Lever Action",
+            "objectID": [
+                "1894Rifle",
+                "ScopeModel8W330",
+                "44magJHP25round.MELON"
+            ]
+        },
+        {
+            "name": "Scout Rifle",
+            "objectID": [
+                "Scout",
+                "MagazineScout",
+                "762x51fmj20round.MELON"
+            ]
+        }
+    ],
+    "type": 0,
+    "set": [],
+    "eras": [],
+    "sizes": [],
+    "actions": [],
+    "modes": [],
+    "excludeModes": [],
+    "feedoptions": [],
+    "mounts": [],
+    "roundPowers": [],
+    "features": [],
+    "meleeStyles": [],
+    "meleeHandedness": [],
+    "powerupTypes": [],
+    "thrownTypes": [],
+    "countryOfOrigins": [],
+    "subtractionID": []
+}

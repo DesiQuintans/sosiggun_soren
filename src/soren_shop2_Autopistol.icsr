@@ -1,0 +1,92 @@
+{
+    "name": "soren_shop2_Autopistol",
+    "minCapacity": -1,
+    "maxCapacity": -1,
+    "ammoLimitedCount": 0,
+    "ammoSpawnLockedCount": 0,
+    "lootTagsEnabled": false,
+    "objectGroups": [
+        {
+            "name": "M1911",
+            "objectID": [
+                "M1911Gold",
+                "MagazineM1911",
+                "45acpfmj50round.MELON"
+            ]
+        },
+        {
+            "name": "C1903 Pocket Hammerless",
+            "objectID": [
+                "TT33",
+                "MagazineTT33",
+                "762x25tokJHP50round.MELON"
+            ]
+        },
+        {
+            "name": "Deagle",
+            "objectID": [
+                "DesertEagle50Classic",
+                "MagazineDeagle50",
+                "50aeFMJ25round.MELON"
+            ]
+        },
+        {
+            "name": "Makarov",
+            "objectID": [
+                "PMM",
+                "MagazineMakarovModern",
+                "9x18makJHP50round.MELON"
+            ]
+        },
+        {
+            "name": "USP Match",
+            "objectID": [
+                "USPMatch",
+                "MagazineUSP",
+                "45acpfmj50round.MELON"
+            ]
+        },
+        {
+            "name": "Beretta M9",
+            "objectID": [
+                "M9A3",
+                "MagazineM9A3",
+                "9x19FMJ50round.MELON"
+            ]
+        },
+        {
+            "name": "G17",
+            "objectID": [
+                "G18C",
+                "MagazineG18Standard",
+                "9x19FMJ50round.MELON"
+            ]
+        },
+        {
+            "name": "Ruger 1022",
+            "objectID": [
+                "R1022_Classic",
+                "RailAdapterR1022",
+                "MagazineR102210rnd",
+                "22lrSP300round.MELON"
+            ]
+        }
+    ],
+    "type": 0,
+    "set": [],
+    "eras": [],
+    "sizes": [],
+    "actions": [],
+    "modes": [],
+    "excludeModes": [],
+    "feedoptions": [],
+    "mounts": [],
+    "roundPowers": [],
+    "features": [],
+    "meleeStyles": [],
+    "meleeHandedness": [],
+    "powerupTypes": [],
+    "thrownTypes": [],
+    "countryOfOrigins": [],
+    "subtractionID": []
+}

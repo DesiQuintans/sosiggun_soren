@@ -1,0 +1,71 @@
+{
+    "name": "soren_loot_medical",
+    "minCapacity": -1,
+    "maxCapacity": -1,
+    "ammoLimitedCount": 0,
+    "ammoSpawnLockedCount": 0,
+    "lootTagsEnabled": false,
+    "objectGroups": [
+    	{
+            "name": "Bandage",
+            "objectID": [
+                "bandages_pubg.tt",
+                "bandages_pubg.tt"
+            ]
+        },
+        {
+            "name": "Bandage",
+            "objectID": [
+                "bandages_pubg.tt",
+                "bandages_pubg.tt"
+            ]
+        },
+        {
+            "name": "Painkiller",
+            "objectID": [
+                "painkiller_pubg.tt"
+            ]
+        },
+
+
+
+        {
+            "name": "FirstAidKit",
+            "objectID": [
+                "firstaidkit_pubg.tt"
+            ]
+        },
+        {
+            "name": "MedShot",
+            "objectID": [
+                "MPD0_StimAmmo.tt"
+            ]
+        },
+
+
+
+        {
+            "name": "MedKit",
+            "objectID": [
+                "medkit_pubg.tt"
+            ]
+        }
+    ],
+    "type": 0,
+    "set": [],
+    "eras": [],
+    "sizes": [],
+    "actions": [],
+    "modes": [],
+    "excludeModes": [],
+    "feedoptions": [],
+    "mounts": [],
+    "roundPowers": [],
+    "features": [],
+    "meleeStyles": [],
+    "meleeHandedness": [],
+    "powerupTypes": [],
+    "thrownTypes": [],
+    "countryOfOrigins": [],
+    "subtractionID": []
+}

@@ -1,0 +1,100 @@
+{
+    "name": "soren_shop4_Shotgun",
+    "minCapacity": -1,
+    "maxCapacity": -1,
+    "ammoLimitedCount": 0,
+    "ammoSpawnLockedCount": 0,
+    "lootTagsEnabled": false,
+    "objectGroups": [
+        {
+        	"name": "TOZ 106",
+            "objectID": [
+                "Toz106",
+                "MagazineToz106",
+                "MagazineToz106"
+            ]
+        },
+        {
+            "name": "W1887 Lever",
+            "objectID": [
+                "1887FullLength",
+                "12gauge00buck25round.MELON"
+            ]
+        },
+        {
+            "name": "M1897 Pump",
+            "objectID": [
+                "M1897Trench",
+                "12gauge00buck25round.MELON"
+            ]
+        },
+        {
+            "name": "MB500 Pump Short",
+            "objectID": [
+                "MB500Shorty",
+                "12gauge00buck25round.MELON"
+            ]
+        },
+        {
+            "name": "M1014 Pump",
+            "objectID": [
+                "M1014",
+                "12gauge00buck25round.MELON"
+            ]
+        },
+        {
+            "name": "SPAS12 Semi",
+            "objectID": [
+                "SPAS12Tactical",
+                "12gauge00buck25round.MELON"
+            ]
+        },
+        {
+            "name": "AA12 Auto",
+            "objectID": [
+                "AA12",
+                "MagazineAA12",
+                "12gauge00buck25round.MELON"
+
+            ]
+        },
+        {
+            "name": "DP12 Semi",
+            "objectID": [
+                "VT13Shorty",
+                "12gauge00buck25round.MELON"
+            ]
+        },
+        {
+            "name": "Break Action Shorty",
+            "objectID": [
+                "BreakActionShorty",
+                "12gauge00buck25round.MELON"
+            ]
+        },
+        {
+            "name": "DT11 DoubleBarrel",
+            "objectID": [
+                "DT11Shorty",
+                "12gauge00buck25round.MELON"
+            ]
+        }
+    ],
+    "type": 0,
+    "set": [],
+    "eras": [],
+    "sizes": [],
+    "actions": [],
+    "modes": [],
+    "excludeModes": [],
+    "feedoptions": [],
+    "mounts": [],
+    "roundPowers": [],
+    "features": [],
+    "meleeStyles": [],
+    "meleeHandedness": [],
+    "powerupTypes": [],
+    "thrownTypes": [],
+    "countryOfOrigins": [],
+    "subtractionID": []
+}

@@ -1,0 +1,34 @@
+{
+    "name": "soren_type2Grenade_grenade_support",
+    "minCapacity": -1,
+    "maxCapacity": -1,
+    "ammoLimitedCount": 0,
+    "ammoSpawnLockedCount": 0,
+    "lootTagsEnabled": false,
+    "objectGroups": [
+        {
+            "name": "Smoke and Flash",
+            "objectID": [
+                "PinnedGrenadeM18SmokeGrenadeWhite",
+                "PinnedGrenadeXM84"
+            ]
+        }
+    ],
+    "type": 2,
+    "set": [],
+    "eras": [],
+    "sizes": [],
+    "actions": [],
+    "modes": [],
+    "excludeModes": [],
+    "feedoptions": [],
+    "mounts": [],
+    "roundPowers": [],
+    "features": [],
+    "meleeStyles": [],
+    "meleeHandedness": [],
+    "powerupTypes": [],
+    "thrownTypes": [],
+    "countryOfOrigins": [],
+    "subtractionID": []
+}

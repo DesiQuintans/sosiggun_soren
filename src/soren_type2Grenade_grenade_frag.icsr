@@ -1,0 +1,39 @@
+{
+    "name": "soren_type2Grenade_grenade_frag",
+    "minCapacity": -1,
+    "maxCapacity": -1,
+    "ammoLimitedCount": 0,
+    "ammoSpawnLockedCount": 0,
+    "lootTagsEnabled": false,
+    "objectGroups": [
+        {
+            "name": "Offensive Grenade",
+            "objectID": [
+                "PinnedGrenadeMk2"
+            ]
+        },
+        {
+            "name": "Defensive Grenade",
+            "objectID": [
+                "PinnedGrenadeM67"
+            ]
+        }
+    ],
+    "type": 2,
+    "set": [],
+    "eras": [],
+    "sizes": [],
+    "actions": [],
+    "modes": [],
+    "excludeModes": [],
+    "feedoptions": [],
+    "mounts": [],
+    "roundPowers": [],
+    "features": [],
+    "meleeStyles": [],
+    "meleeHandedness": [],
+    "powerupTypes": [],
+    "thrownTypes": [],
+    "countryOfOrigins": [],
+    "subtractionID": []
+}

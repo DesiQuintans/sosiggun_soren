@@ -1,0 +1,55 @@
+{
+    "name": "soren_loot_super_rare",
+    "minCapacity": -1,
+    "maxCapacity": -1,
+    "ammoLimitedCount": 0,
+    "ammoSpawnLockedCount": 0,
+    "lootTagsEnabled": false,
+    "objectGroups": [
+        {
+            "name": "Futuristic DesertVulture",
+            "objectID": [
+                "M1911Dillinger",
+                "MagazineM1911Dillinger"
+            ]
+        },
+        {
+            "name": "Futuristic Bullpov",
+            "objectID": [
+                "Owen",
+                "MagazineOwen"
+            ]
+        },
+        {
+            "name": "Gatling",
+            "objectID": [
+                "HandCrankFrank",
+                "MagazineHandCrankFrank"
+            ]
+        },
+        {
+            "name": "Minigun",
+            "objectID": [
+                "M134Minigun",
+                "MagazineM134"
+            ]
+        }
+    ],
+    "type": 0,
+    "set": [],
+    "eras": [],
+    "sizes": [],
+    "actions": [],
+    "modes": [],
+    "excludeModes": [],
+    "feedoptions": [],
+    "mounts": [],
+    "roundPowers": [],
+    "features": [],
+    "meleeStyles": [],
+    "meleeHandedness": [],
+    "powerupTypes": [],
+    "thrownTypes": [],
+    "countryOfOrigins": [],
+    "subtractionID": []
+}

@@ -1,0 +1,14 @@
+{
+    "name": "SR_Sosiggun_Soren",
+  	"author": "Desi",
+	"version_number": "{{ ver }}",
+	"website_url": "https://github.com/DesiQuintans/sosiggun_soren",
+	"description": "A SupplyRaid + SafehouseProgression character that explores H3VR's impressive collection of sosigguns. Ammo is scarce, so you'll be scrambling to take and use the enemy's sosigguns -- if you're lucky, they'll drop the real versions for you to bring home.",
+	"dependencies": [
+	    "Packer-SupplyRaid-1.0.5",
+	    "Desi-SR_Slow_Burners-1.0.0",
+	    "sirpotatos-DrPotatosHomeRemedies-1.0.0",
+	    "MelonCorp-MeloncorpBoxes-1.0.11",
+	    "NGA-GunCaseFix-0.1.1"
+	]
+}

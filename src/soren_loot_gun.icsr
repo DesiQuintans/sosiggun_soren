@@ -1,0 +1,419 @@
+{
+    "name": "soren_loot_gun",
+    "minCapacity": -1,
+    "maxCapacity": -1,
+    "ammoLimitedCount": 0,
+    "ammoSpawnLockedCount": 0,
+    "lootTagsEnabled": false,
+    "objectGroups": [
+        {
+            "name": "Derringer",
+            "objectID": [
+                "Model6",
+                "Speedloader3576Shot"
+            ]
+        },
+        {
+            "name": "Colt Navy",
+            "objectID": [
+            	"COP357",
+            	"Speedloader3576Shot"
+            ]
+        },
+        {
+            "name": "Colt Army",
+            "objectID": [
+                "Hawk357",
+                "Speedloader3576Shot"
+            ]
+        },
+        {
+        	"name": "TOZ 106",
+            "objectID": [
+                "Toz106",
+                "MagazineToz106"
+            ]
+        },
+    	{
+            "name": "Sharps 1874 Sniper",
+            "objectID": [
+                "Mosin91_30",
+                "762x54mmrfmj20round.MELON"
+            ]
+        },
+        {
+            "name": "Ruger 1022",
+            "objectID": [
+                "R1022_Classic",
+                "MagazineR102210rnd"
+            ]
+        },
+        {
+            "name": "Scout Rifle",
+            "objectID": [
+                "Scout",
+                "MagazineScout"
+            ]
+        },
+
+
+
+
+
+        {
+            "name": "Lever Action",
+            "objectID": [
+                "1894Rifle",
+                "44magJHP25round.MELON"
+            ]
+        },
+        {
+            "name": "GenericRevolver",
+            "objectID": [
+                "MP412REX",
+                "Speedloader3576Shot"
+            ]
+        },
+        {
+            "name": "Rhino40DS",
+            "objectID": [
+                "Rhino 40",
+                "Speedloader3576Shot"
+            ]
+        },
+        {
+            "name": "W1887 Lever",
+            "objectID": [
+                "1887FullLength",
+                "12gauge00buck5round.MELON"
+            ]
+        },
+        {
+            "name": "M1897 Pump",
+            "objectID": [
+                "M1897Trench",
+                "12gauge00buck5round.MELON"
+            ]
+        },
+        {
+            "name": "MB500 Pump Short",
+            "objectID": [
+                "MB500Shorty",
+                "12gauge00buck5round.MELON"
+            ]
+        },
+        {
+            "name": "Break Action Shorty",
+            "objectID": [
+                "BreakActionShorty",
+                "12gauge00buck5round.MELON"
+            ]
+        },
+        {
+            "name": "DT11 DoubleBarrel",
+            "objectID": [
+                "DT11Shorty",
+                "12gauge00buck5round.MELON"
+            ]
+        },
+
+
+
+
+
+		{
+            "name": "C1903 Pocket Hammerless",
+            "objectID": [
+                "TT33",
+                "MagazineTT33"
+            ]
+        },
+        {
+            "name": "Makarov",
+            "objectID": [
+                "PMM",
+                "MagazineMakarovModern"
+            ]
+        },
+    	{
+            "name": "M1911",
+            "objectID": [
+                "M1911Gold",
+                "MagazineM1911"
+            ]
+        },
+        {
+            "name": "Deagle",
+            "objectID": [
+                "DesertEagle50Classic",
+                "MagazineDeagle50"
+            ]
+        },
+        {
+            "name": "SPAS12 Semi",
+            "objectID": [
+                "SPAS12Tactical",
+                "12gauge00buck5round.MELON"
+            ]
+        },
+        {
+            "name": "DP12 Semi",
+            "objectID": [
+                "VT13Shorty",
+                "12gauge00buck5round.MELON"
+            ]
+        },
+        {
+            "name": "Dragunov SVD",
+            "objectID": [
+                "Dragonuv",
+                "MagazineDragonuv"
+            ]
+        },
+        {
+            "name": "PSG1",
+            "objectID": [
+                "PSG1",
+                "MagazinePSG110rnd"
+            ]
+        },
+
+
+
+
+
+        {
+            "name": "USP Match",
+            "objectID": [
+                "USPMatch",
+                "MagazineUSP"
+            ]
+        },
+        {
+            "name": "Beretta M9",
+            "objectID": [
+                "M9A3",
+                "MagazineM9A3"
+            ]
+        },
+        {
+            "name": "G17",
+            "objectID": [
+                "G18C",
+                "MagazineG18Standard"
+            ]
+        },
+        {
+            "name": "AA12 Auto",
+            "objectID": [
+                "AA12",
+                "MagazineAA12"
+            ]
+        },
+        {
+            "name": "Mk14 EBR",
+            "objectID": [
+                "Mini14Classic",
+                "MagazineMini145rnd"
+            ]
+        },
+        {
+            "name": "Mac11",
+            "objectID": [
+                "Mac11",
+                "MagazineMac11"
+            ]
+        },
+        {
+            "name": "Kedr",
+            "objectID": [
+                "PP91KEDR",
+                "MagazinePP91"
+            ]
+        },
+        {
+            "name": "Uzi",
+            "objectID": [
+                "Uzi_Compact",
+                "MagazineMicroUzi20rnd"
+            ]
+        },
+        {
+            "name": "Tommy",
+            "objectID": [
+                "ThompsonM1A1",
+                "MagazineThompson30rnd"
+            ]
+        },
+
+
+
+
+
+        {
+            "name": "M1014 Semi",
+            "objectID": [
+                "M1014",
+                "12gauge00buck5round.MELON"
+            ]
+        },
+        {
+            "name": "Pacification MP5SD",
+            "objectID": [
+                "MP5WoodFurniture",
+                "MagazineMp515rnd"
+            ]
+        },
+        {
+            "name": "P90",
+            "objectID": [
+                "P90",
+                "MagazineP90"
+            ]
+        },
+        {
+            "name": "MP5SD",
+            "objectID": [
+                "MP5SD6",
+                "MagazineMp515rnd"
+            ]
+        },
+        {
+            "name": "MP7",
+            "objectID": [
+                "Mp7a1",
+                "MagazineMp7"
+            ]
+        },
+        {
+            "name": "M1 Carbine",
+            "objectID": [
+                "M2Carbine",
+                "MagazineM1Carbine"
+            ]
+        },
+        {
+            "name": "FAMAS",
+            "objectID": [
+                "FamasG2",
+                "MagazineStanagPM10rnd"
+            ]
+        },
+        {
+            "name": "M16A1",
+            "objectID": [
+                "M16A1",
+                "MagazineStanagHBoat10rnd"
+            ]
+        },
+        {
+            "name": "BAR",
+            "objectID": [
+                "M1918BAR",
+                "MagazineM1918BAR"
+            ]
+        },
+
+
+
+
+
+        {
+            "name": "XM7",
+            "objectID": [
+                "SKSModern",
+                "MagazineSKSModern10rnd"
+            ]
+        },
+		{
+            "name": "M1 Garand",
+            "objectID": [
+                "M1Shorty16",
+                "MagazineM1Shorty1610rnd"
+            ]
+        },
+        {
+            "name": "AKM",
+            "objectID": [
+                "AKM",
+                "MagazineAKMTactical10rnd"
+            ]
+        },
+        {
+            "name": "Pacification M16",
+            "objectID": [
+                "M4A1Block2CQBR",
+                "MagazineStanagPM10rndFDE"
+            ]
+        },
+        {
+            "name": "RPG 7",
+            "objectID": [
+                "RPG7",
+                "RPG7Rocket"
+            ]
+        },
+        {
+            "name": "Bazooka",
+            "objectID": [
+                "M1A1Bazooka",
+                "M1A1Rocket"
+            ]
+        },
+        {
+            "name": "M79 Thumper",
+            "objectID": [
+                "M79GrenadeLauncher",
+                "Cartridge_40x46Grenade_M381"
+            ]
+        },
+
+
+
+
+
+        {
+            "name": "M60",
+            "objectID": [
+                "M60E4",
+                "MagazineM60Box"
+            ]
+        },
+        {
+            "name": "PKM",
+            "objectID": [
+                "RPD",
+                "MagazineRPD"
+            ]
+        },
+        {
+            "name": "RG6",
+            "objectID": [
+                "RG6",
+                "Cartridge_40mmCaseless_HEF",
+                "Cartridge_40mmCaseless_HEF",
+                "Cartridge_40mmCaseless_HEF",
+                "Cartridge_40mmCaseless_HEF",
+                "Cartridge_40mmCaseless_HEF",
+                "Cartridge_40mmCaseless_HEF"
+            ]
+        }
+    ],
+    "type": 0,
+    "set": [],
+    "eras": [],
+    "sizes": [],
+    "actions": [],
+    "modes": [],
+    "excludeModes": [],
+    "feedoptions": [],
+    "mounts": [],
+    "roundPowers": [],
+    "features": [],
+    "meleeStyles": [],
+    "meleeHandedness": [],
+    "powerupTypes": [],
+    "thrownTypes": [],
+    "countryOfOrigins": [],
+    "subtractionID": []
+}

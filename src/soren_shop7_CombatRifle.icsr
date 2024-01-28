@@ -1,0 +1,68 @@
+{
+    "name": "soren_shop7_CombatRifle",
+    "minCapacity": -1,
+    "maxCapacity": -1,
+    "ammoLimitedCount": 0,
+    "ammoSpawnLockedCount": 0,
+    "lootTagsEnabled": false,
+    "objectGroups": [
+        {
+            "name": "M1 Carbine",
+            "objectID": [
+                "M2Carbine",
+                "MagazineM1Carbine",
+                "30carbfmj50round.MELON"
+            ]
+        },
+        {
+            "name": "Pacification M16",
+            "objectID": [
+                "M4A1Block2CQBR",
+                "MagazineStanagPM10rndFDE",
+                "556x45fmj50round.MELON"
+            ]
+        },
+        {
+            "name": "FAMAS",
+            "objectID": [
+                "FamasG2",
+                "MagazineStanagPM10rnd",
+                "556x45fmj50round.MELON"
+            ]
+        },
+        {
+            "name": "M16A1",
+            "objectID": [
+                "M16A1",
+                "MagazineStanagHBoat10rnd",
+                "556x45fmj50round.MELON"
+            ]
+        },
+        {
+            "name": "Mk14 EBR",
+            "objectID": [
+                "Mini14Classic",
+                "RailAdapterMini14",
+                "MagazineMini145rnd",
+                "556x45fmj50round.MELON"
+            ]
+        }
+    ],
+    "type": 0,
+    "set": [],
+    "eras": [],
+    "sizes": [],
+    "actions": [],
+    "modes": [],
+    "excludeModes": [],
+    "feedoptions": [],
+    "mounts": [],
+    "roundPowers": [],
+    "features": [],
+    "meleeStyles": [],
+    "meleeHandedness": [],
+    "powerupTypes": [],
+    "thrownTypes": [],
+    "countryOfOrigins": [],
+    "subtractionID": []
+}

@@ -1,0 +1,91 @@
+{
+    "name": "soren_shop5_SMG",
+    "minCapacity": -1,
+    "maxCapacity": -1,
+    "ammoLimitedCount": 0,
+    "ammoSpawnLockedCount": 0,
+    "lootTagsEnabled": false,
+    "objectGroups": [
+        {
+            "name": "Pacification MP5SD",
+            "objectID": [
+                "MP5WoodFurniture",
+                "MagazineMp515rnd",
+                "9x19FMJ50round.MELON"
+            ]
+        },
+        {
+            "name": "MP5SD",
+            "objectID": [
+                "MP5SD6",
+                "MagazineMp515rnd",
+                "9x19FMJ50round.MELON"
+            ]
+        },
+        {
+            "name": "Uzi",
+            "objectID": [
+                "Uzi_Compact",
+                "MagazineMicroUzi20rnd",
+                "9x19FMJ50round.MELON"
+            ]
+        },
+        {
+            "name": "Kedr",
+            "objectID": [
+                "PP91KEDR",
+                "MagazinePP91",
+                "9x18mmFMJ50round.MELON"
+            ]
+        },
+        {
+            "name": "Tommy",
+            "objectID": [
+                "ThompsonM1A1",
+                "MagazineThompson30rnd",
+                "45acpfmj50round.MELON"
+            ]
+        },
+        {
+            "name": "Mac11",
+            "objectID": [
+                "Mac11",
+                "MagazineMac11",
+                "380acpFMJ50round.MELON"
+            ]
+        },
+        {
+            "name": "MP7",
+            "objectID": [
+                "Mp7a1",
+                "MagazineMp7",
+                "4.6x30JHP50round.MELON"
+            ]
+        },
+        {
+            "name": "P90",
+            "objectID": [
+                "P90",
+                "MagazineP90",
+                "5.7x28JHP50round.MELON"
+            ]
+        }
+    ],
+    "type": 0,
+    "set": [],
+    "eras": [],
+    "sizes": [],
+    "actions": [],
+    "modes": [],
+    "excludeModes": [],
+    "feedoptions": [],
+    "mounts": [],
+    "roundPowers": [],
+    "features": [],
+    "meleeStyles": [],
+    "meleeHandedness": [],
+    "powerupTypes": [],
+    "thrownTypes": [],
+    "countryOfOrigins": [],
+    "subtractionID": []
+}
