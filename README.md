@@ -1,8 +1,8 @@
-# SR Sosiggun Soren v3.3.1
+# SR Sosiggun Soren v3.4.0
 
 Whenever I got bad weapon drops in [SupplyRaid](https://h3vr.thunderstore.io/package/Packer/SupplyRaid/), I would pick up and use the enemies' sosigguns. It sometimes felt like cheating, especially if they had decent sights and higher power than I was supposed to have, so I decided to make a SupplyRaid character where using sosigguns *isn't* cheating. 
 
-Sosiggun Soren is a character for the SupplyRaid game mode, balanced for use with [Safehouse for H3MP](https://h3vr.thunderstore.io/package/NGA/Safehouse_for_H3MP/) or [SafehouseProgression](https://h3vr.thunderstore.io/package/NGA/SafehouseProgression/). Soren's playstyle is built around having limited ammo for your regular guns; you'll need to conserve ammo by grabbing and using sosigguns where possible. If you're lucky, an enemy might drop the real version of a sosiggun for you to bring home -- there are 51 guns, 6 melee weapons, and 5 super-rare guns to collect.
+Sosiggun Soren is a character for the SupplyRaid game mode, balanced for use with [Safehouse for H3MP](https://h3vr.thunderstore.io/package/NGA/Safehouse_for_H3MP/) (recommended even for solo players) or [SafehouseProgression](https://h3vr.thunderstore.io/package/NGA/SafehouseProgression/). Soren's playstyle is built around having limited ammo for your regular guns; you'll need to conserve ammo by grabbing and using sosigguns where possible. If you're lucky, an enemy might drop the real version of a sosiggun for you to bring home -- there are 51 guns, 6 melee weapons, and 5 super-rare guns to collect.
 
 
 
@@ -18,6 +18,12 @@ Soren's difficulty depends heavily on the characteristics of the enemy faction y
 
 
 # Play tips
+
+- Purchased medical items heal instantly, whereas looted medical items heal over a few minutes.
+
+- Purchased frag grenades have an impact fuse, a larger blast radius, and can be thrown further than looted grenades, which have a timed fuse. 
+
+- New magazines are expensive to buy. Instead, loot them from enemies or use guns that have internal magazines (revolvers, bolt actions, shotguns). 
 
 - There is no Ammo Refill table. Buy ammo at your safehouse (use [PackersVendingMachines](https://h3vr.thunderstore.io/package/Packer/Packers_Vending_Machines/) or just throw away tokens when you spawn ammo) and bring it with you.
 
@@ -54,6 +60,34 @@ Soren's difficulty depends heavily on the characteristics of the enemy faction y
 
 
 # Changelog
+
+## 3.4.0 (2024-01-28)
+
+- Re-added the [StandardManufacturing DP12](https://h3vr.thunderstore.io/package/cityrobo/StandardManufacturing_DP12/).
+	- This was previously removed in 3.2.0 because I thought it caused a failure to extract. Instead, the failure to extract is a random bug in SafehouseProgression, I've had it happen to me with only vanilla H3VR items in my belt.
+	- The author of SafehouseProgression made a new version, [Safehouse for H3MP](https://h3vr.thunderstore.io/package/NGA/Safehouse_for_H3MP/), which is safer for all players.
+
+These are changes to deal with the new abundance of loot.
+
+- Encouraging the player to buy medical items:
+	- All looted medical items are heal-over-time: Energy drink (+25 % over 2 minutes) and Painkillers (+40 % over 3 minutes).
+	- All purchased medical items are instant-heal: Bandages (+10 % HP) for tier 1, First Aid Kit for tier 2 (heals to 75 % HP), Med Kit for tier 3 (100 % heal).
+	- Cost of tier 2 healing increased by 1 (2 -> 3).
+	- Cost of tier 3 healing increased by 2 (3 -> 5).
+
+- Encouraging the player to buy grenades:
+	- All looted frag grenades are now the Mk.2 (1.6 metre shrapnel blast radius, medium throw distance, timed fuse).
+	- All purchased frag grenades are now the T13 Beano (3.2 metre overpressure blast radius, far throw distance, impact fuse).
+
+- Encouraging the player to loot magazines:
+	- Quadrupled the cost of new magazines (2 -> 8). With more frequent weapon drops, you're encouraged to loot new mags, use weapons whose mags you have more of, or use internal mag weapons.
+	- Revolver pricing is unaffected; remember that every revolver purchase comes with a speedloader and all revolvers use the same .357 Magnum cartridge.
+
+- Probability revisions:
+	- Decreased frag grenade drop probability from 6 % to 4.5 %.
+	- Decreased medical item probability from 6 % to 4.5 %.
+	
+
 
 ## 3.3.1 (2024-01-28)
 

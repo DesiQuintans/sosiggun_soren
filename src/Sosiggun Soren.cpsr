@@ -10,7 +10,7 @@
         2,
         4
     ],
-    "newMagazineCost": 2,
+    "newMagazineCost": 8,
     "upgradeMagazineCost": 3,
     "duplicateMagazineCost": -1,
     "modCost": 1,
@@ -160,11 +160,11 @@
         },
         {
             "itemCategory": "soren_type1Buff_firstaid_mid",
-            "cost": 2
+            "cost": 3
         },
         {
             "itemCategory": "soren_type1Buff_firstaid_total",
-            "cost": 3
+            "cost": 5
         },
 
 
@@ -219,11 +219,11 @@
     "lootCategories": [
         {
             "itemCategory": "soren_type2Grenade_grenade_frag",
-            "chance": 0.06000
+            "chance": 0.04500
         },
         {
             "itemCategory": "soren_loot_medical",
-            "chance": 0.06000
+            "chance": 0.04500
         },
 		{
             "itemCategory": "soren_loot_gun",

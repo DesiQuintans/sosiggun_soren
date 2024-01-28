@@ -7,15 +7,9 @@
     "lootTagsEnabled": false,
     "objectGroups": [
         {
-            "name": "Offensive Grenade",
-            "objectID": [
-                "PinnedGrenadeMk2"
-            ]
-        },
-        {
             "name": "Defensive Grenade",
             "objectID": [
-                "PinnedGrenadeM67"
+                "PinnedGrenadeT13Beano"
             ]
         }
     ],

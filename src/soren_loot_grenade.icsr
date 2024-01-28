@@ -1,20 +1,19 @@
 {
-    "name": "soren_type1Buff_firstaid_low",
+    "name": "soren_loot_grenade",
     "minCapacity": -1,
     "maxCapacity": -1,
-    "ammoLimitedCount": -1,
-    "ammoSpawnLockedCount": -1,
+    "ammoLimitedCount": 0,
+    "ammoSpawnLockedCount": 0,
     "lootTagsEnabled": false,
     "objectGroups": [
-        {
-            "name": "Bandage",
+    	{
+            "name": "Offensive Grenade",
             "objectID": [
-                "bandages_pubg.tt",
-                "bandages_pubg.tt"
+                "PinnedGrenadeMk2"
             ]
         }
     ],
-    "type": 1,
+    "type": 0,
     "set": [],
     "eras": [],
     "sizes": [],

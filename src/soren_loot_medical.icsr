@@ -7,17 +7,54 @@
     "lootTagsEnabled": false,
     "objectGroups": [
     	{
-            "name": "Bandage",
+            "name": "Energy Drink",
             "objectID": [
-                "bandages_pubg.tt",
-                "bandages_pubg.tt"
+                "energydrink_pubg.tt"
+            ]
+        },
+    	{
+            "name": "Energy Drink",
+            "objectID": [
+                "energydrink_pubg.tt"
+            ]
+        },
+    	{
+            "name": "Energy Drink",
+            "objectID": [
+                "energydrink_pubg.tt"
             ]
         },
         {
-            "name": "Bandage",
+            "name": "Energy Drink",
             "objectID": [
-                "bandages_pubg.tt",
-                "bandages_pubg.tt"
+                "energydrink_pubg.tt"
+            ]
+        },
+    	{
+            "name": "Energy Drink",
+            "objectID": [
+                "energydrink_pubg.tt"
+            ]
+        },
+    	{
+            "name": "Energy Drink",
+            "objectID": [
+                "energydrink_pubg.tt"
+            ]
+        },
+    	{
+            "name": "Energy Drink",
+            "objectID": [
+                "energydrink_pubg.tt"
+            ]
+        },
+
+
+
+        {
+            "name": "Painkiller",
+            "objectID": [
+                "painkiller_pubg.tt"
             ]
         },
         {
@@ -30,24 +67,9 @@
 
 
         {
-            "name": "FirstAidKit",
+            "name": "AdrenalineSyringe",
             "objectID": [
-                "firstaidkit_pubg.tt"
-            ]
-        },
-        {
-            "name": "MedShot",
-            "objectID": [
-                "MPD0_StimAmmo.tt"
-            ]
-        },
-
-
-
-        {
-            "name": "MedKit",
-            "objectID": [
-                "medkit_pubg.tt"
+                "adrenalineshot_pubg.tt"
             ]
         }
     ],

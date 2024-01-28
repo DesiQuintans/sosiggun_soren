@@ -11,18 +11,6 @@
             "objectID": [
                 "firstaidkit_pubg.tt"
             ]
-        },
-        {
-            "name": "AdrenalineSyringe",
-            "objectID": [
-                "adrenalineshot_pubg.tt"
-            ]
-        },
-        {
-            "name": "MedShot",
-            "objectID": [
-                "MPD0_StimAmmo.tt"
-            ]
         }
     ],
     "type": 1,
