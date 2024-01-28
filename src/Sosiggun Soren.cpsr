@@ -218,7 +218,7 @@
     ],
     "lootCategories": [
         {
-            "itemCategory": "soren_type2Grenade_grenade_frag",
+            "itemCategory": "soren_loot_grenade",
             "chance": 0.04500
         },
         {
