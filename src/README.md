@@ -2,7 +2,7 @@
 
 Whenever I got bad weapon drops in [SupplyRaid](https://h3vr.thunderstore.io/package/Packer/SupplyRaid/), I would pick up and use the enemies' sosigguns. It sometimes felt like cheating, especially if they had decent sights and higher power than I was supposed to have, so I decided to make a SupplyRaid character where using sosigguns *isn't* cheating. 
 
-Sosiggun Soren is a character for the SupplyRaid game mode, balanced for use with [Safehouse for H3MP](https://h3vr.thunderstore.io/package/NGA/Safehouse_for_H3MP/) (recommended even for solo players) or [SafehouseProgression](https://h3vr.thunderstore.io/package/NGA/SafehouseProgression/). Soren's playstyle is built around having limited ammo for your regular guns; you'll need to conserve ammo by grabbing and using sosigguns where possible. If you're lucky, an enemy might drop the real version of a sosiggun for you to bring home -- there are 51 guns, 6 melee weapons, and 5 super-rare guns to collect.
+Sosiggun Soren is a character for the SupplyRaid game mode, balanced for use with [Safehouse for H3MP](https://h3vr.thunderstore.io/package/NGA/Safehouse_for_H3MP/) (recommended even for solo players) or [SafehouseProgression](https://h3vr.thunderstore.io/package/NGA/SafehouseProgression/). Soren's playstyle is built around having limited ammo for your regular guns; you'll need to conserve ammo by grabbing and using sosigguns where possible. If you're lucky, an enemy might drop the real version of a sosiggun for you to bring home -- there are 51 guns, 6 melee weapons, and 4 super-rare guns to collect.
 
 
 
@@ -21,9 +21,9 @@ Soren's difficulty depends heavily on the characteristics of the enemy faction y
 
 - Purchased medical items heal instantly, whereas looted medical items heal over a few minutes.
 
-- Purchased frag grenades have an impact fuse, a larger blast radius, and can be thrown further than looted grenades, which have a timed fuse. 
+- Purchased frag grenades have an impact fuse, and have a larger blast radius and can be thrown further than looted grenades, which have a timed fuse. 
 
-- New magazines are expensive to buy. Instead, loot them from enemies or use guns that have internal magazines (revolvers, bolt actions, shotguns). 
+- New magazines are expensive to buy. Instead, loot them from enemies or use guns that have internal magazines (revolvers, bolt actions, shotguns, lever actions). 
 
 - There is no Ammo Refill table. Buy ammo at your safehouse (use [PackersVendingMachines](https://h3vr.thunderstore.io/package/Packer/Packers_Vending_Machines/) or just throw away tokens when you spawn ammo) and bring it with you.
 
@@ -60,6 +60,17 @@ Soren's difficulty depends heavily on the characteristics of the enemy faction y
 
 
 # Changelog
+
+## 3.4.2 (2024-01-29)
+
+- Oops again, Rhino 40 was dropping as loot instead of Rhino 60.
+- Reverted change in v3.1.0 where AKM was given the regular 30-round magazine instead of the 10-round mag. Now that new mags are more expensive, I don't mind the difference.
+
+
+## 3.4.1 (2024-01-29)
+
+- Oops, fixed looted grenades (it was dropping purchased grenades).
+  
 
 ## 3.4.0 (2024-01-28)
 
@@ -240,13 +251,13 @@ Sometimes I substituted different guns entirely, either because there was no rea
 4. M1014
 5. SPAS 12 Tactical
 6. AA12
-7. _VT13 Shorty_ (sosiggun DP12)
+7. DP12
 8. Break Action Shorty
 9. DT11
 10. Toz 106
 
 
-## Submachine guns
+## Submachine guns/PDWs
 
 1. _MP5 Wood_ (sosiggun Pacification MP5SD)
 2. MP5SD6
@@ -290,7 +301,7 @@ Sometimes I substituted different guns entirely, either because there was no rea
 3. M1A1 Bazooka
 4. RG6
 5. Mk2 fragmentation grenade
-6. M67 fragmentation grenade
+6. _T13 Beano_ (sosiggun M67 fragmentation grenade)
 7. M18 smoke grenade
 8. XM84 stun grenade
 
