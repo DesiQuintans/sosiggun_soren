@@ -22,6 +22,8 @@ REM	Do recursive replacement of '{{ ver }}' with new version number.
 REM     Needs 'rpl' from <http://gnuwin32.sourceforge.net/packages/rpl.htm>
 rpl -R -x".md" -x".json" -q "{{ ver }}" %ver% temp
 
+REM Update the readme in the root
+robocopy temp\ .\ README.md
 
 REM	Do the final zipping.
 if not exist "distrib\" mkdir "distrib\"

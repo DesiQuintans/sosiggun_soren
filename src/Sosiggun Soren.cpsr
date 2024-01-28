@@ -219,7 +219,7 @@
     "lootCategories": [
         {
             "itemCategory": "soren_type2Grenade_grenade_frag",
-            "chance": 0.03000
+            "chance": 0.06000
         },
         {
             "itemCategory": "soren_loot_medical",
@@ -231,7 +231,7 @@
         },
         {
             "itemCategory": "soren_loot_super_rare",
-            "chance": 0.00012
+            "chance": 0.00036
         }
     ],
     "subtractionObjectIDs": [

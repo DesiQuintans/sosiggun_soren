@@ -1,4 +1,4 @@
-# SR Sosiggun Soren {{ ver }}
+# SR Sosiggun Soren v{{ ver }}
 
 Whenever I got bad weapon drops in [SupplyRaid](https://h3vr.thunderstore.io/package/Packer/SupplyRaid/), I would pick up and use the enemies' sosigguns. It sometimes felt like cheating, especially if they had decent sights and higher power than I was supposed to have, so I decided to make a SupplyRaid character where using sosigguns *isn't* cheating. 
 
@@ -54,6 +54,12 @@ Soren's difficulty depends heavily on the characteristics of the enemy faction y
 
 
 # Changelog
+
+## 3.3.1 (2024-01-28)
+
+- Doubled probability of frag grenade dropping.
+- Tripled probability of super-rare drops.
+  
 
 ## 3.3.0 (2024-01-27)
 
