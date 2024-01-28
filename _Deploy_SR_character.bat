@@ -32,7 +32,7 @@ if exist "distrib\%charname%-%ver%.zip" del distrib\%charname%-%ver%.zip
 
 REM	Delete the temporary folder and announce success
 REM	Wait for a second to wait for the processes to finish.
-timeout /t 1 /nobreak
+timeout /t 2 /nobreak
 if exist "temp\" rmdir "temp" /s /q
 
 echo.
